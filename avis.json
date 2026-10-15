@@ -1,0 +1,21 @@
+{
+  "_lisez-moi": "Extraits d'avis réels de clientes (Planity, Google), 14/10/2026. Seules retouches : emojis retirés, fautes de frappe corrigées, extrait raccourci si besoin ; aucun avis négatif n'est repris. Prénom + initiale seulement. Injecté dans index.html par scripts/generer-pages.mjs.",
+  "planity": { "note": "5,0", "nombre": 54 },
+  "google": { "note": "4,9", "nombre": 25 },
+  "avis": [
+    { "texte": "Laura est très pro et efficace. Elle est accueillante et gentille. Je la recommande à 100 %.", "auteur": "Marie-Line B.", "source": "Planity", "date": "octobre 2026" },
+    { "texte": "Top top comme toujours. La meilleure.", "auteur": "Cliente Planity", "source": "Planity", "date": "avril 2026" },
+    { "texte": "10/10 parfait comme toujours ! Merci.", "auteur": "Orlane D.", "source": "Planity", "date": "janvier 2026" },
+    { "texte": "Une première avec Laura pour ma fille et moi et franchement très contentes du résultat ! Accueil plus que chaleureux et travail soigné. Nous sommes très satisfaites et y retournerons.", "auteur": "Sandra B.", "source": "Planity", "date": "août 2025" },
+    { "texte": "Que ce soit pour les ongles, les soins du corps ou les pieds, on peut se laisser chouchouter les yeux fermés par Laura.", "auteur": "Aline F.", "source": "Planity", "date": "janvier 2025" },
+    { "texte": "Franchement un vrai plaisir, très douce, je recommande et je vais d'ailleurs bloquer mon prochain rendez-vous.", "auteur": "Ydia L. R.", "source": "Planity", "date": "mars 2025" },
+    { "texte": "Je repars toujours avec de beaux ongles propres, bien limés, mon gainage tient impeccablement pendant un mois facilement sans ongles qui se cassent, et une peau toute douce, non irritée, pour l'épilation.", "auteur": "Cliente Planity", "source": "Planity", "date": "janvier 2025" },
+    { "texte": "Une excellente découverte : Laura est chaleureuse, met facilement à l'aise, très charismatique, avec une qualité de prestation respectueuse de l'hygiène et à l'écoute des goûts de ses clients.", "auteur": "Cliente Planity", "source": "Planity", "date": "novembre 2024" },
+    { "texte": "Mes ongles sont magnifiques ! J'adore et je recommande à 100 % ! Super professionnelle et très minutieuse dans le détail.", "auteur": "Cliente Planity", "source": "Planity", "date": "décembre 2023" },
+    { "texte": "Accueil chaleureux comme toujours, on peut discuter de tout avec Laura, excellente qualité de prothésiste ongulaire et épilation.", "auteur": "Cliente Planity", "source": "Planity", "date": "novembre 2024" },
+    { "texte": "Rien à redire : sympathique, et prestation de grande qualité pour un prix tout à fait correct. Je reviendrai avec plaisir.", "auteur": "Laura M.", "source": "Google", "date": "octobre 2024" },
+    { "texte": "J'ai eu la chance de faire un massage ce matin, et c'était tout simplement incroyable ! Très relaxant, chaque geste était parfaitement maîtrisé.", "auteur": "Cam B.", "source": "Google", "date": "décembre 2024" },
+    { "texte": "Très professionnelle, j'adore les soins de Laura : elle connaît parfaitement son travail.", "auteur": "Chloé S.", "source": "Google", "date": "décembre 2025" },
+    { "texte": "Au top comme à chaque fois : Laura est douée, minutieuse, attentionnée et de bon conseil.", "auteur": "Cliente Planity", "source": "Planity", "date": "novembre 2024" }
+  ]
+}

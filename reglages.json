@@ -1,0 +1,59 @@
+{
+  "nom": "Lau'Beauty",
+  "slogan": "Institut de beauté",
+  "esthéticienne": "Laura",
+  "telephone": "06 51 19 19 80",
+  "telephoneInternational": "+33651191980",
+  "email": "",
+  "adresse": {
+    "rue": "341 avenue du Moulin Neuf",
+    "lieuDit": "Au salon Laurent G",
+    "codePostal": "04100",
+    "ville": "Manosque",
+    "pays": "FR",
+    "latitude": 43.8296508,
+    "longitude": 5.796088
+  },
+  "fuseau": "Europe/Paris",
+  "horaires": {
+    "lundi": [],
+    "mardi": [["09:30", "18:00"]],
+    "mercredi": [],
+    "jeudi": [["09:30", "18:00"]],
+    "vendredi": [["09:30", "18:00"]],
+    "samedi": [["09:00", "17:00"]],
+    "dimanche": []
+  },
+  "fermetures": [
+    "2026-11-01", "2026-11-11", "2026-12-25",
+    "2027-01-01", "2027-03-29", "2027-05-01", "2027-05-06", "2027-05-08", "2027-05-17", "2027-07-14", "2027-08-15", "2027-11-01", "2027-11-11", "2027-12-25",
+    "2028-01-01", "2028-04-17", "2028-05-01", "2028-05-08", "2028-05-25", "2028-06-05", "2028-07-14", "2028-08-15", "2028-11-01", "2028-11-11", "2028-12-25"
+  ],
+  "reservation": {
+    "pasCreneauMinutes": 30,
+    "delaiMinimumHeures": 1,
+    "horizonJours": 90,
+    "dureeMaxMinutes": 240,
+    "maxPrestations": 6,
+    "paiements": ["total"],
+    "acomptePourcent": 30,
+    "acompteMinimumEuros": 10,
+    "paiementSurPlaceJusquaEuros": 0,
+    "retenueMinutes": 31,
+    "annulationHeures": 3
+  },
+  "fidelite": {
+    "paliers": [
+      { "passage": 5, "remisePourcent": 10 },
+      { "passage": 10, "remisePourcent": 20 }
+    ],
+    "exclusions": "hors forfaits"
+  },
+  "liens": {
+    "avisGoogle": "https://www.google.com/maps/place/Lau'Beauty/@43.8296508,5.796088,17z/data=!3m1!4b1!4m6!3m5!1s0x12cbcdc9d07b6cb3:0xd3acd6d998abfeb!8m2!3d43.8296508!4d5.796088!16s%2Fg%2F11tcz7by92",
+    "itineraire": "https://www.google.com/maps/dir/?api=1&destination=43.8296508,5.796088",
+    "instagram": "https://www.instagram.com/__lau_beauty__/",
+    "facebook": "https://www.facebook.com/people/LauBeauty/100085354541365/",
+    "planity": "https://www.planity.com/laubeauty-04100-manosque"
+  }
+}

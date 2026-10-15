@@ -1,0 +1,575 @@
+{
+ "source": "planity",
+ "releve": "2026-10-14",
+ "note": "Généré par scripts/generer-catalogue.mjs depuis _sources/planity/prestations.json. Ne pas modifier à la main.",
+ "familles": [
+  {
+   "id": "ongles",
+   "nom": "Ongles",
+   "intro": "Pose gel, semi-permanent, nail art : des ongles soignés, solides et lumineux.",
+   "categories": [
+    {
+     "id": "mains",
+     "titre": "Mains",
+     "intro": "Pose, remplissage, renfort et dépose.",
+     "services": [
+      {
+       "id": "-NkvBgvy8_Ctqg2p3wLS",
+       "nom": "Pose complète gel capsule",
+       "duree": 105,
+       "prix": 45,
+       "description": "Ce sont de petites capsules qui se collent sur le bout de l'ongle naturel, qui seront par la suite coupées et limées selon la forme/longueur d'ongles souhaitées. Puis le tout recouvert de gel."
+      },
+      {
+       "id": "-NkvCA-3_M3wlnDy1pyP",
+       "nom": "Remplissage gel",
+       "duree": 90,
+       "prix": 40,
+       "description": "Lorsque votre ongle naturel commence à repousser, un écart apparaît entre votre doigt et le faux-ongle que l'on vous a posé. Le remplissage est la technique d'onglerie qui permet, comme son nom l'indique, de remplir cet écart qui commence à se former."
+      },
+      {
+       "id": "-NkvCfO0TpLI6nbLaoPj",
+       "nom": "Gainage gel sur ongle naturel",
+       "duree": 60,
+       "prix": 34,
+       "description": "En quoi consiste le gainage de l'ongle ? Le gainage de l'ongle permet de renforcer des ongles fragiles grâce à l'application de gel sur l'ongle naturel. Cette technique de renforcement de l'ongle naturel n'utilise pas d'extension, de chablon, de capsule, de colle, etc."
+      },
+      {
+       "id": "-O-gAlE_PWqZkODvs_dH",
+       "nom": "Semi permanent renforcé mains",
+       "duree": 60,
+       "prix": 30,
+       "description": "Le renfort semi-permanent est l'ajout d'une base qui va épaissir légèrement et renforcer vos ongles. Une matière collante qui durcit sous passage dans une lampe uv. Le gel est utilisé pour renforcer les ongles, qu'ils soient courts, longs, mous ou forts, ainsi que pour les rallonger de façon très solide."
+      },
+      {
+       "id": "-NkvCqnBhOSF71BKlUfq",
+       "nom": "Semi permanent mains",
+       "duree": 45,
+       "prix": 25,
+       "description": "C'est la solution intermédiaire entre les vernis classiques et les gels. Il s'agit d'un produit à appliquer en quatre couches sur des ongles naturels : une couche de base, deux couches de vernis et une couche de top coat pour la finition. Chaque couche est à catalyser sous une lampe UV."
+      },
+      {
+       "id": "-NkvDD4mbySzFxAFfOox",
+       "nom": "Dépose semi permanent mains",
+       "duree": 30,
+       "prix": 12,
+       "description": "Cela permet d'enlever complètement le vernis sans endommager la surface de l'ongle."
+      },
+      {
+       "id": "-NkvD5xsrCP5LXfOzEyJ",
+       "nom": "Dépose gel + soins cuticules mains",
+       "duree": 30,
+       "prix": 15,
+       "description": "La dépose est une technique permettant de retirer le faux ongle sans abîmer l'ongle naturel. Et pour finir un soin cuticule sera appliqué."
+      }
+     ]
+    },
+    {
+     "id": "pieds",
+     "titre": "Pieds",
+     "services": [
+      {
+       "id": "-NkvG2H7OxfCcsUKSE2W",
+       "nom": "Semi permanent pieds",
+       "duree": 45,
+       "prix": 25,
+       "description": "C'est la solution intermédiaire entre les vernis classiques et les gels. Il s'agit d'un produit à appliquer en quatre couches sur des ongles naturels : une couche de base, deux couches de vernis et une couche de top coat pour la finition. Chaque couche est à catalyser sous une lampe UV."
+      },
+      {
+       "id": "-O-g9ytfjcDOfFihDB2f",
+       "nom": "Gel sur ongle naturel pieds",
+       "duree": 60,
+       "prix": 35,
+       "description": "Il s'agit d'un gel fluide qui se pose sur l'ongle naturel pour un rendu se rapprochant d'un vernis classique. La matière garde un rendu souple après durcissement. La pose consiste à effectuer une préparation des ongles naturels puis d'appliquer une couche de base adhérente."
+      },
+      {
+       "id": "-NkvGElEx5s-yu5aGtOo",
+       "nom": "Dépose semi permanent pieds",
+       "duree": 30,
+       "prix": 12,
+       "description": "Cela permet d'enlever complètement le vernis sans endommager la surface de l'ongle."
+      },
+      {
+       "id": "-P1U-YNWXQ5yvc8uYHRg",
+       "nom": "Dépose gel pieds",
+       "duree": 30,
+       "prix": 15
+      }
+     ]
+    },
+    {
+     "id": "finitions",
+     "titre": "Finitions et nail art",
+     "intro": "À ajouter à votre pose. Les décorations se facturent 1 € par doigt.",
+     "services": [
+      {
+       "id": "-NkvDdXOjtOL-JMK2-V3",
+       "nom": "Supplément French manucure",
+       "duree": 10,
+       "prix": 5,
+       "description": "Cette technique consiste à poser sur le bout de l'ongle une ligne droite/courbé/arrondi de vernis de couleur blanche. Le reste de l'ongle est recouvert avec un vernis transparent ou nude."
+      },
+      {
+       "id": "-O-gAPyxV9PB45X2tNU0",
+       "nom": "Supplément french pieds",
+       "duree": 10,
+       "prix": 5,
+       "description": "Cette technique consiste à poser sur le bout de l'ongle une ligne droite/courbé/arrondi de vernis de couleur blanche. Le reste de l'ongle est recouvert avec un vernis transparent ou nude."
+      },
+      {
+       "id": "-OnYBn7DN6FE0YlV1s4Y",
+       "nom": "Supplément baby-boomer",
+       "duree": 15,
+       "prix": 5
+      },
+      {
+       "id": "-NkvEFkNRSRmS8fbBVoc",
+       "nom": "Ongle cassé",
+       "duree": 20,
+       "prix": 3,
+       "description": "Les ongles en gel peuvent se casser ou se fissurer pour diverses raisons : choc, mauvaise manipulation ou encore souffrance causée par certains produits chimiques. Réparer ces ongles rapidement et efficacement est donc crucial pour maintenir une manucure impeccable."
+      },
+      {
+       "id": "-OFCtG9W5aFM9iVWrSVs",
+       "nom": "Déco ongle / nail art sur plus de deux doigts (1 € par doigt)",
+       "duree": 15,
+       "prix": 1,
+       "prixMax": 5,
+       "description": "Le nail art est une technique consistant à décorer les ongles avec du vernis, du gel, de la résine, des paillettes, des strass, de la poudre chrome ou encore des stickers. Cette liste de décorations n'est pas exhaustive, car il y a tellement de manières de s'amuser avec le nail art."
+      },
+      {
+       "id": "-ONK_lNfmsinE1Xaf_AM",
+       "nom": "Déco ongle / nail art sur tous les doigts",
+       "duree": 30,
+       "prix": 10
+      },
+      {
+       "id": "-P1Tu88wYb7UEOkE5KlL",
+       "nom": "Déco 3D",
+       "duree": 20,
+       "prix": 5
+      },
+      {
+       "id": "-P1U-GIH3EARN7BCh9WU",
+       "nom": "Strass / déco ongle pieds (1 € par doigt)",
+       "duree": 20,
+       "prix": 1,
+       "prixMax": 10
+      }
+     ]
+    },
+    {
+     "id": "soins-mains-pieds",
+     "titre": "Soins des mains et des pieds",
+     "services": [
+      {
+       "id": "-O-gBJDhCA9EZCa8UCie",
+       "nom": "Manucure simple",
+       "duree": 20,
+       "prix": 15,
+       "description": "C'est un soin qui comprend le limage, polissage et retrait des cuticules. Il est important de faire cette manucure régulièrement car cela permet de nourrir, protéger et hydrater vos ongles."
+      },
+      {
+       "id": "-NgOqui1Z3_6-dxLodun",
+       "nom": "Soin douceur des mains",
+       "duree": 45,
+       "prix": 38,
+       "description": "C’est une beauté des mains intégrale donc manucure pour les ongles et gommages et masque pour les mains."
+      },
+      {
+       "id": "-NgOr-8NApHZZkfAwDr5",
+       "nom": "Soin profond douceur des pieds",
+       "duree": 45,
+       "prix": 43,
+       "description": "Ce soin complet des pieds débute par un nettoyage et une exfoliation des pieds, supprime toutes les cuticules et rend les ongles impeccables, la corne et les peaux mortes sont retirées, la peau est assouplie suite au massage."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "visage",
+   "nom": "Visage",
+   "intro": "Des soins sur mesure pour une peau nette, hydratée et lumineuse.",
+   "categories": [
+    {
+     "id": "soins-visage",
+     "titre": "Soins du visage",
+     "services": [
+      {
+       "id": "-NgOq1svg_WUDoPNh18F",
+       "nom": "Modelage visage douce évasion",
+       "duree": 30,
+       "prix": 28,
+       "description": "Le modelage du visage est une technique de soin de la peau qui a des effets bénéfiques sur la santé et la beauté de votre peau. Le modelage du visage aide à stimuler la microcirculation sanguine, à réduire les rides et ridules, à améliorer l'élasticité de la peau et à relaxer les muscles du visage."
+      },
+      {
+       "id": "-NgOqC9uSKukJ_hySXoB",
+       "nom": "Soin flash détox",
+       "duree": 45,
+       "prix": 43,
+       "description": "Détoxifie la peau en captant et en éliminant les particules polluantes tel un aimant. Il absorbe également les toxines et les impuretés. Réoxygène la peau grâce aux techniques manuelles et aux actifs qui augmentent la consommation d'oxygène par les cellules, stimulant ainsi le métabolisme cutané."
+      },
+      {
+       "id": "-NgOq7rkSCW3qMfGsNYn",
+       "nom": "Soin éclat pur",
+       "duree": 45,
+       "prix": 43,
+       "description": "Un soin du visage purifiant est axé, en plusieurs étapes, sur un nettoyage en profondeur de la peau. Il est particulièrement apprécié pour assainir et purifier la peau. L'objectif ? Éliminer les cellules mortes, désobstruer les pores et débarrasser les substances polluantes auxquelles la peau fait face au quotidien."
+      },
+      {
+       "id": "-NgOqFnPFAJ1J1fjVeaS",
+       "nom": "Soin profond éclat d’hydratation",
+       "duree": 75,
+       "prix": 60,
+       "description": "Un soin du visage hydratant est un soin de la peau spécialisé conçu pour reconstituer et augmenter les niveaux d'hydratation de la peau. Ce soin du visage est un moyen luxueux et efficace de lutter contre la sécheresse, la déshydratation et le teint terne. Dans ce soin vous retrouverez un modelage de 15 min pour votre plus grand plaisir."
+      },
+      {
+       "id": "-NgOqIJzvHYD8o4G6eUm",
+       "nom": "Soin profond douceur absolue",
+       "duree": 75,
+       "prix": 60,
+       "description": "Un soin hydratant visage contribue à empêcher la sécheresse et la déshydratation cutanée. Lorsqu'il est formulé correctement, il hydrate la peau de manière durable et aide à renforcer sa barrière naturelle contre les agressions extérieures (pollution, froid, soleil…) il permet également d’être adapté aux peaux sensibles qui réagissent facilement. Dans ce soin vous retrouverez un modelage de 15 min pour votre plus grand plaisir."
+      },
+      {
+       "id": "-NgOqL232jPrqFLWbj6Z",
+       "nom": "Soin profond pureté peau nette",
+       "duree": 75,
+       "prix": 60,
+       "description": "Un soin du visage purifiant est axé, en plusieurs étapes, sur un nettoyage en profondeur de la peau. Il est particulièrement apprécié pour assainir et purifier la peau. L'objectif ? Éliminer les cellules mortes, désobstruer les pores et débarrasser les substances polluantes auxquelles la peau fait face au quotidien. Dans ce soin vous retrouverez un modelage de 15 min pour votre plus grand plaisir."
+      },
+      {
+       "id": "-NgOqOmhxYqP1XTKsyk7",
+       "nom": "Soin anti âge et fermeté",
+       "duree": 75,
+       "prix": 67,
+       "description": "Venez découvrir un soin du visage visant à atténuer les signes de l'âge, à réduire les rides et raffermir la peau tout en la protégeant du stress oxydatif. Vous bénéficierez d’un modelage de 15 min pour continuer à vous relaxer."
+      },
+      {
+       "id": "-NgOqUK-oR5rJEL2zmS_",
+       "nom": "Soin anti âge complet",
+       "duree": 75,
+       "prix": 72,
+       "description": "Venez découvrir le soin anti âge complet. Ce soin anti-âge a pour but de maintenir la jeunesse de la peau et de lutter contre le vieillissement cutané. L'action du soin anti-âge consiste à ralentir les effets du vieillissement, c'est une action globale sur tous les signes majeurs de l’âge. Un modelage de 15 min est compris pour permettre de travailler sur chaque ride et ridule."
+      },
+      {
+       "id": "-OFCq3LBNb-fwJRb2tZk",
+       "nom": "Modelage mains en complément d’un soin visage",
+       "duree": 10,
+       "prix": 10,
+       "description": "Le modelage mains sous affusion apporte de nombreux bénéfices à l’organisme : il stimule la circulation sanguine, libère les tensions musculaires, débarrasse la peau et l’organisme de toxines."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "corps",
+   "nom": "Corps",
+   "intro": "Modelages et soins pour relâcher les tensions.",
+   "categories": [
+    {
+     "id": "soins-corps",
+     "titre": "Modelages et soins du corps",
+     "services": [
+      {
+       "id": "-NgOqXuqzeBhMrB2qJaz",
+       "nom": "Modelage dos",
+       "duree": 30,
+       "prix": 28,
+       "description": "Il permet une meilleure relaxation du corps, d'évacuer le stress accumulé, mais également de dénouer les tensions."
+      },
+      {
+       "id": "-NgOqa67PduWTnWKvFtn",
+       "nom": "Modelage Corps l’instant précieux",
+       "duree": 30,
+       "prix": 28,
+       "description": "Ce modelage est une technique relaxante consistant à effleurer, frictionner, presser, pétrir ou tapoter de manière superficielle plusieurs parties du corps incluant la tête et les pieds."
+      },
+      {
+       "id": "-NgOqmUGInULncuHphZy",
+       "nom": "Soin corps voyage relaxant",
+       "duree": 60,
+       "prix": 60,
+       "description": "Le modelage du corps est une technique de massage qui utilise différentes méthodes pour détendre les muscles, améliorer la circulation sanguine et lymphatique, et favoriser un état de relaxation profonde."
+      },
+      {
+       "id": "-NgOqpZOmCb-lBE2gGgV",
+       "nom": "Soin corps escapade polynésienne",
+       "duree": 60,
+       "prix": 65,
+       "description": "Ce soin polynésien est un massage énergisant et relaxant qui alterne les points de pression profonds pour apaiser les tensions, avec des effleurages plus doux pour un lâcher-prise total. Il se pratique avec du monoï pour nourrir et parfumer le corps, ce qui lui donne une dimension sensorielle exceptionnelle."
+      },
+      {
+       "id": "-Nn6FHnhupWJPpXTqbl_",
+       "nom": "Soin du dos purifiant",
+       "duree": 45,
+       "prix": 40,
+       "description": "Le soin du dos purifiant et désincrustant comprend les étapes suivantes : Un nettoyage suivi d'un gommage. Il exfolie, désincruste et affine le grain de la peau. Un bain de vapeur avec un vapozone, afin de faciliter l'extraction des points noirs (comédons) et de purifier la peau suivi d’une pose de masque à l’argile pour purifier et matifier la zone."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "epilations",
+   "nom": "Épilations",
+   "intro": "Une peau douce, sans irritation.",
+   "categories": [
+    {
+     "id": "epilations",
+     "titre": "À la zone",
+     "services": [
+      {
+       "id": "-NgOpZKi-LZhxYa7idXW",
+       "nom": "Sourcils",
+       "duree": 15,
+       "prix": 10
+      },
+      {
+       "id": "-NgOpa7OR5OxdlehyTfz",
+       "nom": "Lèvre",
+       "duree": 15,
+       "prix": 7
+      },
+      {
+       "id": "-NgOpcN_pE0S2wUpGsSF",
+       "nom": "Menton",
+       "duree": 10,
+       "prix": 6
+      },
+      {
+       "id": "-NgOpeXXXR94JXSWACgV",
+       "nom": "Dos",
+       "duree": 30,
+       "prix": 25
+      },
+      {
+       "id": "-NgOphrbHwKXDM13b0Ys",
+       "nom": "Ventre/Torse",
+       "duree": 30,
+       "prix": 25
+      },
+      {
+       "id": "-NgOpjiEpV7FJzanPUI8",
+       "nom": "Aisselles",
+       "duree": 15,
+       "prix": 15
+      },
+      {
+       "id": "-NgOplqU2aQc2KsG06iH",
+       "nom": "1/2 Bras",
+       "duree": 30,
+       "prix": 16
+      },
+      {
+       "id": "-NgOpntCmneBhy9rDSxf",
+       "nom": "Bras complet",
+       "duree": 30,
+       "prix": 19
+      },
+      {
+       "id": "-NgOppmrmLr0dr_XIw3g",
+       "nom": "Maillot Simple",
+       "duree": 15,
+       "prix": 14
+      },
+      {
+       "id": "-NgOpsEJs8PJYO0zPlcK",
+       "nom": "Maillot Échancré",
+       "duree": 20,
+       "prix": 20
+      },
+      {
+       "id": "-NgOpu9SbbGKjJ06g4Vy",
+       "nom": "Maillot Intégral",
+       "duree": 30,
+       "prix": 26
+      },
+      {
+       "id": "-NgOpw1GhtQrMgXSe0QL",
+       "nom": "1/2 Jambes",
+       "duree": 20,
+       "prix": 20
+      },
+      {
+       "id": "-NgOpzHzk_8OHqoONi5s",
+       "nom": "Jambes complètes",
+       "duree": 30,
+       "prix": 28
+      },
+      {
+       "id": "-NgU4ta4DhbkHPYjag7m",
+       "nom": "Cuisse",
+       "duree": 25,
+       "prix": 25
+      }
+     ]
+    },
+    {
+     "id": "forfaits-epilations",
+     "titre": "Forfaits épilations",
+     "services": [
+      {
+       "id": "-NgOrq9THdTfpv0UE1xy",
+       "nom": "Forfait Sourcils + Lèvre",
+       "duree": 20,
+       "prix": 15
+      },
+      {
+       "id": "-NgOrts-6JPOYcDF994P",
+       "nom": "Forfait Maillot simple + Aisselles",
+       "duree": 30,
+       "prix": 26
+      },
+      {
+       "id": "-NgOrweh8uReR8xkNzJl",
+       "nom": "Forfait Maillot échancré + aisselles",
+       "duree": 35,
+       "prix": 32
+      },
+      {
+       "id": "-NgOs-Tn6ABTrKz1Apw4",
+       "nom": "Forfait Maillot intégral + aisselles",
+       "duree": 45,
+       "prix": 38
+      },
+      {
+       "id": "-NgOs2VNEKhZ1tDjhuTS",
+       "nom": "Forfait 1/2 jambes + aisselles",
+       "duree": 35,
+       "prix": 32
+      },
+      {
+       "id": "-NgOs5_nHLKLG_Mw298o",
+       "nom": "Forfait 1/2 jambes + maillot simple",
+       "duree": 35,
+       "prix": 31
+      },
+      {
+       "id": "-NgOs9gO4ulx9x4bVLeD",
+       "nom": "Forfait 1/2 jambes + maillot échancré",
+       "duree": 40,
+       "prix": 37
+      },
+      {
+       "id": "-NgOsDH2KYfodQTknnkx",
+       "nom": "Forfait 1/2 jambes + maillot intégral",
+       "duree": 50,
+       "prix": 43
+      },
+      {
+       "id": "-NgOsGWawThGFxI0-gEc",
+       "nom": "Forfait 1/2 jambes + maillot simple + aisselles",
+       "duree": 50,
+       "prix": 46
+      },
+      {
+       "id": "-NgOsJKgyHcncg6zwKwC",
+       "nom": "Forfait 1/2 jambes + maillot échancré + aisselles",
+       "duree": 55,
+       "prix": 52
+      },
+      {
+       "id": "-NgOsMdUQRQH8MlnqrJA",
+       "nom": "Forfait 1/2 jambes + maillot intégral + aisselles",
+       "duree": 65,
+       "prix": 58
+      },
+      {
+       "id": "-NgOsQEztRFoKabPhbaz",
+       "nom": "Forfait Jambes complète + maillot simple",
+       "duree": 45,
+       "prix": 39
+      },
+      {
+       "id": "-NgOsVgMBk9iIIM7Lxs5",
+       "nom": "Forfait Jambes complète + maillot échancré",
+       "duree": 50,
+       "prix": 45
+      },
+      {
+       "id": "-NgOsZWSMhpwTHWcskQq",
+       "nom": "Forfait Jambes complète + maillot intégral",
+       "duree": 60,
+       "prix": 51
+      },
+      {
+       "id": "-OFCpH938ORUfe0GGs5G",
+       "nom": "Forfait Jambes complète + maillot échancré + aisselles",
+       "duree": 75,
+       "prix": 60
+      },
+      {
+       "id": "-NgOschpE8-KembN51DR",
+       "nom": "Forfait Jambes complète + maillot intégral + aisselles",
+       "duree": 75,
+       "prix": 65
+      },
+      {
+       "id": "-OFCpUv9KUHYF9AE7sbN",
+       "nom": "Forfait Cuisses + maillot échancré",
+       "duree": 60,
+       "prix": 42
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forfaits",
+   "nom": "Forfaits soins",
+   "intro": "Associez un soin du visage et un soin du corps, ou les mains et les pieds.",
+   "categories": [
+    {
+     "id": "forfaits-soins",
+     "titre": "Forfaits soins",
+     "services": [
+      {
+       "id": "-NgOsqBot4ioylmLhLw7",
+       "nom": "Forfait modelage visage douce évasion 30 min + modelage dos ou corps l’instant précieux 30 min",
+       "duree": 60,
+       "prix": 53
+      },
+      {
+       "id": "-OFCqen5PSCaPvxuIYw9",
+       "nom": "Forfait soin visage flash détox ou l'éclat pur 45 min + modelage dos ou corps l'instant précieux 30 min",
+       "duree": 75,
+       "prix": 66
+      },
+      {
+       "id": "-NgOt09JXk2pslW2xqo2",
+       "nom": "Forfait soin visage profond pureté peau nette ou douceur absolue ou éclat d’hydratation 1h15 + soin corps voyage relaxant 1h",
+       "duree": 135,
+       "prix": 115
+      },
+      {
+       "id": "-OFCret_0VTVkfgeieR5",
+       "nom": "Forfait soin visage profond pureté peau nette ou douceur absolue ou éclat d’hydratation 1h15 + soin corps escapade polynésienne 1h",
+       "duree": 135,
+       "prix": 120
+      },
+      {
+       "id": "-NgOt52wGJTLu-EF37uY",
+       "nom": "Forfait soin visage anti âge fermeté 1h15 + soin corps voyage relaxant 1h",
+       "duree": 135,
+       "prix": 122
+      },
+      {
+       "id": "-NgOt9lEEerlRFvMkqHH",
+       "nom": "Forfait soin visage anti âge complet 1h15 + soin corps escapade polynésienne 1h",
+       "duree": 135,
+       "prix": 132
+      },
+      {
+       "id": "-NgOtKgkjVR669ejJIQX",
+       "nom": "Forfait soin douceur des mains + soin profond douceur des pieds (pose de vernis semi-permanent mains + pieds incluse)",
+       "duree": 150,
+       "prix": 123
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

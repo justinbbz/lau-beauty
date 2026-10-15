@@ -1,0 +1,8 @@
+Polices auto-hébergées (sous-ensemble latin, format WOFF2), toutes sous licence SIL Open Font License 1.1
+(https://openfontlicense.org) : usage commercial et redistribution libres, y compris sur un site web.
+
+- Spectral (Production Type)            : spectral-latin-*.woff2
+- Albert Sans (Andreas Rapp / Albert)   : albert-sans-latin-*.woff2
+- Mrs Saint Delafield (Sudtipos)        : mrs-saint-delafield-latin-400-normal.woff2
+
+Source des fichiers : projet Fontsource (https://fontsource.org), qui redistribue Google Fonts.
